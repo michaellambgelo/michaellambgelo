@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### My name is Michael Lamb
+
+I am a software engineer at C Spire.
+
+📫 How to reach me: `michael at michaellamb.dev`
+
 <!--
 **michaellambgelo/michaellambgelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
