@@ -6,6 +6,10 @@ I am a software engineer at C Spire.
 
 📫 How to reach me: `michael at michaellamb.dev`
 
+🔭 I’m currently working on [demo][demo], a Spring Boot Lab
+
+🤔 I’m looking for help with [developing applications using Discord4J][discord4j]
+
 <!--
 **michaellambgelo/michaellambgelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[demo]:https://github.com/michaellambgelo/demo
+[discord4j]:https://docs.discord4j.com/quickstart
