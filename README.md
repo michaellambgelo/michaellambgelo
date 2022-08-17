@@ -4,7 +4,7 @@
 
 I am a software engineer at C Spire.
 
-📫 How to reach me: `michael at michaellamb.dev`
+📫 How to reach me: `michael at michaellamb.dev` || [link.michaellamb.dev](https://link.michaellamb.dev/)
 
 🔭 I’m currently working on [demo][demo], a Spring Boot Lab
 
