@@ -2,13 +2,13 @@
 
 ### My name is Michael Lamb
 
-I am a software engineer at C Spire.
+I am a software engineer at C Spire
 
 📫 How to reach me: `michael at michaellamb.dev` || [link.michaellamb.dev](https://link.michaellamb.dev/)
 
 🔭 I’m currently working on [demo][demo], a Spring Boot Lab
 
-🤔 I’m looking for help with [developing applications using Discord4J][discord4j]
+🤔 I’m looking for help with making [demo][demo] an accessible, beginner-friendly application for people interested in Spring Boot and OpenAPI development
 
 <!--
 **michaellambgelo/michaellambgelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
