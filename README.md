@@ -4,12 +4,13 @@
 
 I am a software engineer at C Spire
 
+😄 Pronouns: he/him
+
+⚡ Fun fact: I am a Mississippi transplant; I graduated high school and moved to the state to attend a college which shut down. I finished my degree elsewhere and have stayed since.
+
 📫 How to reach me: `michael at michaellamb.dev` || [link.michaellamb.dev](https://link.michaellamb.dev/)
 
-🔭 I’m currently working on [demo][demo], a Spring Boot Lab
-
-🤔 I’m looking for help with making [demo][demo] an accessible, beginner-friendly application for people interested in Spring Boot and OpenAPI development
-
+🔭 I’m currently working on [image-converter-ui][image-converter-ui], a Vue frontend to interact with image APIs provided by [demo][demo]
 <!--
 **michaellambgelo/michaellambgelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
