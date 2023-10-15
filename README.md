@@ -6,7 +6,7 @@ I am a software engineer at C Spire
 
 😄 Pronouns: he/him
 
-⚡ Fun fact: I am a Mississippi transplant; I graduated high school and moved to the state to attend a college which shut down. I finished my degree elsewhere and have stayed since.
+⚡ Fun fact: I am a Mississippi transplant; I graduated high school and moved to the state to attend a college which shut down. I then achieved a degree in Software Engineering at Mississippi State University and have stayed since.
 
 📫 How to reach me: `michael at michaellamb.dev` || [link.michaellamb.dev](https://link.michaellamb.dev/)
 
