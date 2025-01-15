@@ -10,7 +10,7 @@ I am a software engineer at C Spire
 
 📫 How to reach me: `michael at michaellamb.dev`
 
-🔭 I’m currently working on a new website with NueJS
+🔭 I’m currently on PTO
 <!--
 **michaellambgelo/michaellambgelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
