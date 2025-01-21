@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[discord]:[https://discord.gg/T2esqjDEVU]
+[discord]:https://discord.gg/T2esqjDEVU
