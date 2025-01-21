@@ -10,7 +10,7 @@ I am a software engineer at C Spire
 
 📫 How to reach me: `michael at michaellamb.dev`
 
-🔭 I’m currently on PTO
+🔭 I’m currently working on a Server Member Matchmaker service for Discord -- coming soon to [my personal dev server][discord]
 <!--
 **michaellambgelo/michaellambgelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[discord]:[https://discord.gg/T2esqjDEVU]
