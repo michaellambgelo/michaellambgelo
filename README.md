@@ -12,7 +12,6 @@ I am a software engineer at C Spire
 
 🔭 I’m currently working on a Server Member Matchmaker service for Discord -- now in beta tests in [my personal dev server][discord]
 
-[![streak](https://codeium.com/badges/v2/user/michaellambgelo/streak)](https://codeium.com/profile/michaellambgelo)
 <!--
 **michaellambgelo/michaellambgelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
