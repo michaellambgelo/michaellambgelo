@@ -10,7 +10,7 @@ I am a software engineer at C Spire
 
 📫 How to reach me: `michael at michaellamb.dev`
 
-🔭 I’m currently working on a Server Member Matchmaker service for Discord -- now in beta tests in [my personal dev server][discord]
+🔭 I’m currently working on a talk for MagnoliaConf 2025, happening at the Mississippi Museum of Art October 21-23. My network gets 10% off [in-person tickets](https://www.tixtree.com/e/magnolia-conf-453fc7ea2496) with code SPEAKER10 - grab yours and let's connect in Jackson!
 
 <!--
 **michaellambgelo/michaellambgelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
