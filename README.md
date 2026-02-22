@@ -10,7 +10,7 @@ I am a software engineer at C Spire
 
 📫 How to reach me: `michael at michaellamb.dev`
 
-🔭 I’m observing the New Year
+👁️ I’m working on a Letterboxd Last Four Watched tool 
 
 <!--
 **michaellambgelo/michaellambgelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
